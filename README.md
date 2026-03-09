@@ -4,3 +4,5 @@ I explored the customer dataset featured in Freedom Oboh YouTube video, which al
 Out of every 500 customers, 11.8% belong to the informal sector, highlighting the need for stronger awareness and financial inclusion campaigns.
 The dataset covers the period 2015 to 2025, with 2017 recording the highest number of customers.
 The average customer, aged 46 years, earns $114.4K.
+<img width="1186" height="611" alt="image" src="https://github.com/user-attachments/assets/4ea25e43-1f92-42f9-8565-e91165434773" />
+
